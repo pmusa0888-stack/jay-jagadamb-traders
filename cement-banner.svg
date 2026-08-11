@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 700" role="img" aria-label="Cement and construction banner">
+  <rect width="1400" height="700" fill="#f6b400"/>
+  <rect x="70" y="70" width="1260" height="560" rx="40" fill="#ffffff" stroke="#2c2c2c" stroke-width="6"/>
+  <rect x="140" y="150" width="1120" height="320" rx="28" fill="#f8efe7"/>
+  <rect x="200" y="210" width="520" height="240" rx="20" fill="#ffffff"/>
+  <rect x="760" y="210" width="360" height="240" rx="20" fill="#ffffff"/>
+  <rect x="220" y="230" width="480" height="200" rx="16" fill="#f0b000"/>
+  <rect x="780" y="230" width="320" height="200" rx="16" fill="#d8a000"/>
+  <rect x="260" y="270" width="150" height="60" rx="8" fill="#ffffff"/>
+  <rect x="430" y="270" width="150" height="60" rx="8" fill="#ffffff"/>
+  <rect x="600" y="270" width="80" height="60" rx="8" fill="#ffffff"/>
+  <rect x="820" y="270" width="120" height="60" rx="8" fill="#ffffff"/>
+  <rect x="960" y="270" width="120" height="60" rx="8" fill="#ffffff"/>
+  <circle cx="1020" cy="380" r="95" fill="#ffffff"/>
+  <circle cx="1020" cy="380" r="70" fill="#f0b000"/>
+  <circle cx="1020" cy="380" r="40" fill="#ffffff"/>
+  <path d="M300 520 L320 440 L370 440 L390 520 Z" fill="#2f2f2f"/>
+  <path d="M420 520 L440 440 L490 440 L510 520 Z" fill="#2f2f2f"/>
+  <path d="M540 520 L560 390 L650 390 L670 520 Z" fill="#2f2f2f"/>
+  <rect x="240" y="520" width="420" height="30" rx="15" fill="#2f2f2f"/>
+  <rect x="820" y="520" width="220" height="30" rx="15" fill="#2f2f2f"/>
+  <text x="722" y="610" text-anchor="middle" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#2f2f2f">Cement &amp; Steel</text>
+  <text x="722" y="650" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#666666">जय जगदंब ट्रेडर्स</text>
+</svg>
